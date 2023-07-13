@@ -1,6 +1,5 @@
-# qr_scanner
+# Smart Scan
 
-Smart Scan
 Smart Scan is a powerful QR Scanner app developed with Flutter, designed to simplify the process of scanning QR codes effortlessly. With its user-friendly interface and intuitive functionalities, Smart Scan offers a convenient and efficient solution for decoding QR codes.
 
 Features
