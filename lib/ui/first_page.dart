@@ -127,6 +127,7 @@ class _QRCodeScannerScreenState extends State<QRCodeScannerScreen> with SingleTi
     if (scanning) {
       setState(() {
         scanning = false;
+        isFlashOn ? toggleFlash() : debugPrint("");
       });
 
       String scannedCode = scanData.code!;
