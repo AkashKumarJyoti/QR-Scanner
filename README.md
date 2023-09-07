@@ -20,6 +20,6 @@ URL Launch: Directly launch URLs by clicking on the scanned data, effortlessly a
 
 # Screenshot
 <p float="left">
-<img src="https://github.com/AkashKumarJyoti/images/blob/master/qr%20img2.jpg" width="350" height="600" />
-<img src="https://github.com/AkashKumarJyoti/images/blob/master/qr%20img1.jpg" width="350" height="600" />
+<img src="https://github.com/AkashKumarJyoti/images/blob/master/smart%20scan/qr%20img2.jpg" width="350" height="600" />
+<img src="https://github.com/AkashKumarJyoti/images/blob/master/smart%20scan/qr%20img1.jpg" width="350" height="600" />
 </p>
