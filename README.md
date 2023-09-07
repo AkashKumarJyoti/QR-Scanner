@@ -9,15 +9,17 @@ Separate Result Page: View scanned QR code data on a dedicated result page for b
 Copy to Clipboard: Copy the scanned data to the clipboard with a single tap, enabling quick and convenient sharing or storage.
 URL Launch: Directly launch URLs by clicking on the scanned data, effortlessly accessing associated web content.
 
-## Getting Started
+# Pubspec.yaml file dependencies -> 
+      cupertino_icons:
+      qr_code_scanner: 
+      permission_handler: 
+      fluttertoast: 
+      image_picker: 
+      clipboard: 
+      url_launcher:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshot
+<p float="left">
+<img src="https://github.com/AkashKumarJyoti/images/blob/master/qr%20img2.jpg" width="350" height="600" />
+<img src="https://github.com/AkashKumarJyoti/images/blob/master/qr%20img1.jpg" width="350" height="600" />
+</p>
